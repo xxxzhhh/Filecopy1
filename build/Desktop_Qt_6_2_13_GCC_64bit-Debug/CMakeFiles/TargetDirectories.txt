@@ -1,0 +1,9 @@
+/home/qs/桌面/filecopy1/build/Desktop_Qt_6_2_13_GCC_64bit-Debug/CMakeFiles/filecopy1.dir
+/home/qs/桌面/filecopy1/build/Desktop_Qt_6_2_13_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
+/home/qs/桌面/filecopy1/build/Desktop_Qt_6_2_13_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/home/qs/桌面/filecopy1/build/Desktop_Qt_6_2_13_GCC_64bit-Debug/CMakeFiles/list_install_components.dir
+/home/qs/桌面/filecopy1/build/Desktop_Qt_6_2_13_GCC_64bit-Debug/CMakeFiles/install.dir
+/home/qs/桌面/filecopy1/build/Desktop_Qt_6_2_13_GCC_64bit-Debug/CMakeFiles/install/local.dir
+/home/qs/桌面/filecopy1/build/Desktop_Qt_6_2_13_GCC_64bit-Debug/CMakeFiles/install/strip.dir
+/home/qs/桌面/filecopy1/build/Desktop_Qt_6_2_13_GCC_64bit-Debug/CMakeFiles/filecopy1_autogen_timestamp_deps.dir
+/home/qs/桌面/filecopy1/build/Desktop_Qt_6_2_13_GCC_64bit-Debug/CMakeFiles/filecopy1_autogen.dir
